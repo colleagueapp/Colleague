@@ -1,2 +1,1 @@
-# Colleague
-The Professional App
+Colleague : The Professional App
